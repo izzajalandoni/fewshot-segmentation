@@ -114,7 +114,7 @@ Sample of 1-shot segmentation result on the Pascal 5i dataset
 #### Visual demonstration of the proposed method limitation in segmenting the object of interest
 ![FSS1000 Result 3](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20bad%20segmentation.jpg)
 #### Visual representation of proposed method performing segmentation on 1000 class dataset with weak annotation (bounding box)
-![FSS1000 Result 4](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20annotation%20result%201.jpg)
+![FSS1000 Result 4](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20annotation%20result%201n.jpg)
 ![FSS1000 Result 5](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/FSS1000%20Weak%20result%202.jpg)
 
 ### Query
