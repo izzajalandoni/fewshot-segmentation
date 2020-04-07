@@ -8,7 +8,7 @@ This repository contains the code for deep auto-encoder-decoder network for few-
 [Ismail Ben Ayed](https://scholar.google.com/citations?hl=en&user=29vyUccAAAAJ&view_op=list_works&sortby=pubdate),
 [Marco Pedersoli](https://scholar.google.com/citations?user=aVfyPAoAAAAJ&hl=en) and
 [Jose Dolz](https://scholar.google.ca/citations?user=yHQIFFMAAAAJ&hl=en) 
-"On the Texture Bias for Few-Shot CNN Segmentation", arXiv preprint arXiv:2020.3074743, 2020, download [link](https://arxiv.org/pdf/2003.04052.pdf).
+"On the Texture Bias for Few-Shot CNN Segmentation", arXiv preprint arXiv:2003.04052. 2020 Mar 9. download [link](https://arxiv.org/pdf/2003.04052.pdf).
 
 #### Please consider starring us, if you found it useful. Thanks
 
